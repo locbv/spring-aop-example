@@ -134,3 +134,5 @@ Method nào muốn track thì thêm annotation này vào @TrackTime
 Xem chi tiết source code ở đây
 3. Kết luận:
 Trong bài này giúp chúng ta có cái nhìn tồng quan về Spring AOP. Hiểu được các khái niệm của nó, Làm 1 ví dụ cụ thể thấy được lợi ích mà nó đem lại.
+
+https://viblo.asia/p/su-dung-aop-trong-spring-boot-va-aspectj-vyDZOkbaZwj
